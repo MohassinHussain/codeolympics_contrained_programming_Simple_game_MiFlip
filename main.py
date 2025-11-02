@@ -1,5 +1,5 @@
 # MiFlip
-# Constraints; 1. Variable limit to <= 3charcaters, 2. No external libraries, 3. A simple game
+# Constraints; 1. Variable limit to <= 3charcaters & no. of lines limit 200, 2. No external libraries, 3. A simple game
 
 import random, os, time
 
